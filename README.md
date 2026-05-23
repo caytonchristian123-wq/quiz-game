@@ -23,7 +23,8 @@ easier debugging
 pwede ka muna gumamit ng fake data
 
 After gumana UI:
-➡️ saka ikokonekta sa backend/database.
+
+saka ikokonekta sa backend/database.
 
 Ito magandang approach lalo na sa ginagawa mong systems.
 

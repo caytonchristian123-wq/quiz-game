@@ -1,4 +1,4 @@
-    Frontend muna (recommended for beginners)
+    **Frontend muna (recommended for beginners)**
     Gawin muna:
     
     UI
@@ -21,24 +21,24 @@
     easier debugging
     pwede ka muna gumamit ng fake data
     
-    After gumana UI:
+    **After gumana UI:**
     saka ikokonekta sa backend/database.
     
     Ito magandang approach lalo na sa ginagawa mong systems.
     Backend muna.
-    Ginagawa ito kapag:
+    **Ginagawa ito kapag:**
     
     database-heavy project
     API muna priority
     maraming business logic
     
-    Example:
+    **Example:**
     
     authentication
     payment system
     inventory logic
     
-    Full-stack workflow (most common)
+    **Full-stack workflow (most common**)
     Usually ganito:
     
     Design UI (frontend)
@@ -49,12 +49,13 @@
     
     Example sa milk tea system mo:
     
-    Frontend
+    **Frontend**
     flavor buttons
     quantity
     add-ons
     receipt UI
-    Backend
+    
+    **Backend**
     save order to SQLite/SQL
     compute totals
     generate OrderID
